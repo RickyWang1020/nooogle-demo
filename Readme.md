@@ -2,7 +2,10 @@
 
 ## Deployment
 
-This project should be deployed to EC2 instance(s). It supports access through HTTP (port 8080) and HTTPS (port 8443).
+This project is deployed to EC2 instance(s). It supports access through HTTP (port 8080) and HTTPS (port 8443).
+
+## Architecture
+![architecture](https://github.com/RickyWang1020/nooogle-demo/blob/main/img/architecture.png?raw=true)
 
 ## Demo
 ### Main Page
